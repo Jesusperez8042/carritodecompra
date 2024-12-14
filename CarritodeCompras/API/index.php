@@ -1,4 +1,1 @@
-<?php
-
-
-require __DIR__ . '/..admin.php'
+<?php include 'admin.php'; ?>
