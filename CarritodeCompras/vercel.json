@@ -1,0 +1,10 @@
+{
+    "funciones" : {
+      "api/*.php" : {
+        "tiempo de ejecución" : " vercel-php@0.7.3 "
+     }
+   },
+   "rutas" : [
+     { "origen" : " /(.*) " ,   "destino" : " /api/index.php " }
+   ]
+ }
